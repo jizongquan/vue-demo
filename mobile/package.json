@@ -9,19 +9,12 @@
     "start": "webpack-dev-server --open",
     "build": "webpack --env.production"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@gitlab.com/imooc/vuejs.git"
-  },
   "keywords": [
     "es6",
     "component"
   ],
-  "author": "cuc_ygh@163.com",
+  "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://gitlab.com/imooc/vuejs/issues"
-  },
   "eslintConfig": {
     "root": true,
     "parserOptions": {
